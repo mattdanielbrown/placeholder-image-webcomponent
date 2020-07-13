@@ -1,0 +1,37 @@
+{
+	"name": "placeholder-image-webcomponent",
+	"version": "0.0.0",
+	"description": "Placeholder image Web Component as a custom element.",
+	"license": "MIT",
+	"repository": "mattdanielbrown/placeholder-image-webcomponent",
+	"author": {
+		"name": "Matt Daniel Brown",
+		"email": "developer@mattdanielbrown.com",
+		"url": "mattdanielbrown.com"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"scripts": {
+		"test": "xo && ava"
+	},
+	"files": [
+		"./placehlder-image/placeholder-image.js"
+	],
+	"main"    : "placehlder-image/placeholder-image.js",
+	"keywords": [
+		"placeholder",
+		"image",
+		"img",
+		"custom element",
+		"webcomponent",
+		"vanilla-js"
+	],
+	"dependencies": {},
+	"devDependencies": {
+		"ava": "^3.10.1",
+		"np": "^6.3.2",
+		"semver": "^7.3.2",
+		"xo": "^0.32.1"
+	}
+}
