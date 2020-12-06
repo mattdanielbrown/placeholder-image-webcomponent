@@ -30,7 +30,7 @@
 	"dependencies": {},
 	"devDependencies": {
 		"ava": "^3.10.1",
-		"np": "^6.3.2",
+		"np": "^7.0.0",
 		"semver": "^7.3.2",
 		"xo": "^0.32.1"
 	}
