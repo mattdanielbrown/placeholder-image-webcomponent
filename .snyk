@@ -38,3 +38,5 @@ patch:
         patched: '2022-03-25T20:12:23.888Z'
     - xo > eslint-plugin-unicorn > eslint-template-visitor > babel-eslint > @babel/traverse > @babel/helper-function-name > @babel/template > @babel/types > lodash:
         patched: '2022-03-25T20:12:23.888Z'
+    - xo > eslint-plugin-unicorn > eslint-template-visitor > babel-eslint > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash:
+        patched: '2022-04-16T18:16:24.851Z'
