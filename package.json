@@ -30,7 +30,7 @@
     "vanilla-js"
   ],
   "dependencies": {
-    "@snyk/protect": "latest"
+    "@snyk/protect": "1.893.0"
   },
   "devDependencies": {
     "ava": "^3.10.1",
