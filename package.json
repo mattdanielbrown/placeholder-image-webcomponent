@@ -33,7 +33,7 @@
     "@snyk/protect": "latest"
   },
   "devDependencies": {
-    "ava": "^3.10.1",
+    "ava": "^6.3.0",
     "np": "^6.3.2",
     "semver": "^7.3.2",
     "xo": "^0.32.1"
